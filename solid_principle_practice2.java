@@ -95,4 +95,5 @@ public class TcsEmployeePortal {
     }
 }
 
-//below we will correct and code will follow the solid principle 
+//below we will correct and code will follow the solid principle
+//now we will list out all the different module according to the responsibility to follow the single responsibility principle 
