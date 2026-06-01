@@ -96,4 +96,8 @@ public class TcsEmployeePortal {
 }
 
 //below we will correct and code will follow the solid principle
-//now we will list out all the different module according to the responsibility to follow the single responsibility principle 
+//now we will list out all the different module according to the responsibility to follow the single responsibility principle
+//db connection 
+//on-boarding process
+//reporting and analytics 
+//these are the above module in which this probless should be break into
