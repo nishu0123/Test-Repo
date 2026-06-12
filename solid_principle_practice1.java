@@ -109,7 +109,7 @@ class Document {
 //Now separate the responsibilities
 
 //at first create the interface for each responsibilities
-//adding comment to test the feature/restoreCommit 
+
 public interface ISaveDocument
 {
 	void SaveDocument();
